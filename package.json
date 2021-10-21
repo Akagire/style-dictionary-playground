@@ -1,0 +1,13 @@
+{
+  "name": "style-dictionary-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "Apache 2.0",
+  "private": true,
+  "scripts": {
+    "dic": "style-dictionary build"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.0.3"
+  }
+}
